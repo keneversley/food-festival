@@ -24,12 +24,8 @@
     "file-loader": "^6.2.0",
     "webpack": "^5.72.1",
     "webpack-bundle-analyzer": "^4.5.0",
-<<<<<<< HEAD
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
-=======
-    "webpack-cli": "^4.9.2"
->>>>>>> ef311875b201aad3940a0f32562630bb5b8da63f
   },
   "dependencies": {
     "bootstrap": "^4.3.1",

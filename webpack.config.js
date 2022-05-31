@@ -1,10 +1,5 @@
 const webpack = require('webpack');
-<<<<<<< HEAD
 const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
-=======
-const BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
-  .BundleAnalyzerPlugin;
->>>>>>> ef311875b201aad3940a0f32562630bb5b8da63f
 // const SWPrecacheWebpackPlugin = require("sw-precache-webpack-plugin");
 // const WebpackPwaManifest = require("webpack-pwa-manifest");
 const path = require('path');
